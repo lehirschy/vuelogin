@@ -16,7 +16,7 @@
 
 <template>
   <h1 class="mt-8 text-6xl font-thin tracking-tighter text-center">
-    Cool Chat
+    Eden's Cool Chat
   </h1>
   <div
     class="
