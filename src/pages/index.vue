@@ -13,7 +13,7 @@
             Welcome {{ user }}    
         </h2>
         <h2>
-            <UndrawWelcome primary-color='#41B883' height='400'/>
+            <UndrawWelcome primary-color='#41B883' height='400px'/>
         </h2>
        
     </div>
